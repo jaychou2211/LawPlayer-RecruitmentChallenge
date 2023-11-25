@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "coverUrl": "https://betterpet.com/wp-content/uploads/2023/05/ragdoll-cat.jpg",
+      "imgurCoverUrl": "https://i.imgur.com/gV1LnUj.jpg",
+      "status": "DONE"
+    },
+    {
+      "id": 2,
+      "coverUrl": "https://betterpet.com/wp-content/uploads/2023/05/ragdoll-cat.jpg",
+      "imgurCoverUrl": "https://i.imgur.com/eBJ1HdT.jpg",
+      "status": "DONE"
+    },
+    {
+      "id": 3,
+      "coverUrl": "https://betterpet.com/wp-content/uploads/2023/05/ragdoll-cat.jpg",
+      "imgurCoverUrl": "https://i.imgur.com/p1Bsqwp.jpg",
+      "status": "DONE"
+    },
+    {
+      "id": 4,
+      "coverUrl": "https://www.litter-robot.com/media/wysiwyg/ragdoll-1.png",
+      "imgurCoverUrl": "https://i.imgur.com/uTBQU7O.jpg",
+      "status": "DONE"
+    },
+    {
+      "id": 5,
+      "coverUrl": "https://www.litter-robot.com/media/magefan_blog/david-brooke-ragdoll_copy.jpg",
+      "imgurCoverUrl": "https://i.imgur.com/lNZlOPX.jpg",
+      "status": "DONE"
+    },
+    {
+      "id": 6,
+      "coverUrl": "https://www.thesprucepets.com/thmb/8vub4CfiI8SBaxxbf4FGP1NW7Lo=/1394x0/filters:no_upscale():strip_icc()/ScreenShot2019-04-25at10.11.09AM-9f332cf37eaf4523bf52ed557266ed71.png",
+      "imgurCoverUrl": "https://i.imgur.com/To6k9og.png",
+      "status": "DONE"
+    },
+    {
+      "id": 7,
+      "coverUrl": "https://www.thesprucepets.com/thmb/8vub4CfiI8SBaxxbf4FGP1NW7Lo=/1394x0/filters:no_upscale():strip_icc()/ScreenShot2019-04-25at10.11.09AM-9f332cf37eaf4523bf52ed557266ed71.png",
+      "imgurCoverUrl": "https://i.imgur.com/i3zoSuw.png",
+      "status": "DONE"
+    },
+    {
+      "id": 8,
+      "coverUrl": "https://betterpet.com/wp-content/uploads/2023/05/ragdoll-cat.jpg",
+      "imgurCoverUrl": "https://i.imgur.com/U2TDdW2.jpg",
+      "status": "DONE"
+    }
+  ]
+}
