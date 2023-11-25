@@ -81,11 +81,11 @@
     - 外層(涉及第三方的技術細節)：
         - primaries ( controller、presenter … )
         
-            > 會呼叫 service、usecase 的
+            > 會呼叫 service、usecase 的。
         - secondaries ( db、websocket …)
         
-            > 會被  service、usecase 呼叫的
-            > 這裡通常會實作(impelement)位於內層訂定的port(interface)。
+            > 會被 service、usecase 呼叫的。
+            > 這裡通常會藉由具體類別實作(impelement)位於內層訂定的port(interface)。
             > 例[1]：ImgurUploader  —實作→ IImageUploader
             > 例[2]：PostRepository —實作→ IRepository
             >
