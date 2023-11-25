@@ -1,7 +1,7 @@
 ### **How to set up**
 
 1. 修改 `.env.sample`：
-    - 改為 ``.env`
+    - 改為 `.env`
     - 將 `IMGUR_CLIENT_ID` 替換為自己的 imgurClientId
 
 2. 執行 `npm run start`，並藉 `http://localhost:3000/posts` 和 server 互動
